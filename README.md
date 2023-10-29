@@ -2,6 +2,6 @@ Remarkable Identity Demo
 
 The mistery of (a+b)²
 
-<p>
+<p align=center>
     <img src=draw.png width=400px>
 </p>
